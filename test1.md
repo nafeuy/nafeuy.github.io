@@ -7,4 +7,5 @@
 3. 输入`pkg install nodejs-lts`以安装Node  
 4. 输入`npm install hexo-cli -g`以安装Hexo  
     * 更换npm国内镜像`npm config set registry https://registry.npm.taobao.org`  
+
 **至此所有准备工作就完成了**  
